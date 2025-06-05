@@ -19,7 +19,7 @@ This project demonstrates a complete pipeline for multi-class image classificati
 ```
 image-classification-cnn/
 ├── dataset/                     # Dataset organized by class folders
-├── cnn_classifier.py            # Core training and prediction script
+├── main.py            # Core training and prediction script
 ├── requirements.txt             # List of required Python packages
 └── README.md                    # Project documentation
 ```
